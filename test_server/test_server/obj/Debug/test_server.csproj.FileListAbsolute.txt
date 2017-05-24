@@ -1,0 +1,7 @@
+D:\cs_sample\test_server\test_server\bin\Debug\test_server.exe.config
+D:\cs_sample\test_server\test_server\bin\Debug\test_server.exe
+D:\cs_sample\test_server\test_server\bin\Debug\test_server.pdb
+D:\cs_sample\test_server\test_server\obj\Debug\test_server.csprojResolveAssemblyReference.cache
+D:\cs_sample\test_server\test_server\obj\Debug\test_server.exe
+D:\cs_sample\test_server\test_server\obj\Debug\test_server.pdb
+D:\cs_sample\test_server\test_server\bin\Debug\ShareUtil.dll
